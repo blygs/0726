@@ -1,3 +1,10 @@
+
+/*
+ * auther :
+ * when :
+ * Objectives :
+ * Environment : Os - Windows 10, JDK version - Oracle JDK 11.0.16 , Editer - Eclipse 2022.6
+*/
 import java.util.Scanner;
 
 public class StudentInfo {
