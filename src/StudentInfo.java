@@ -13,11 +13,15 @@ public class StudentInfo {
 		
 		System.out.println("학번 : ");
 		String hakbun = sc.nextLine();
+		
+		System.out.println("주소 : ");
+		String address = sc.nextLine();
 		sc.close();
 		
 //		System.out.printf("오늘은 %s 이며 학생 이름은 %s, 학번은 %s 입니다.",today, name, hakbun);
 		System.out.println("날짜 : "+today);
 		System.out.println("이름 : "+name);
 		System.out.println("학번 : "+hakbun);
+		System.out.println("주소 : "+address);
 	}
 }
